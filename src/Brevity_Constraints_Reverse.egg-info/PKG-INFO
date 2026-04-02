@@ -1,0 +1,42 @@
+Metadata-Version: 2.2
+Name: Brevity_Constraints_Reverse
+Version: 1.0.0
+Summary: A framework that Analyzes Language Model's Reverse performance Hierarchies under Brevity Constraints
+Home-page: https://github.com/Anonymous/Brevity Constraints Reverse Performance Hierarchies in Language Models
+Author: Anonymous
+Author-email: Anonymous@gmail.com
+Project-URL: Bug Tracker, https://github.com/Anonymous/Brevity Constraints Reverse Performance Hierarchies in Language Models/issues
+Keywords: large language model,compression,reasoning,robustness,intelligence framework
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: torch>=1.7.0
+Requires-Dist: numpy>=1.19.2
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+m

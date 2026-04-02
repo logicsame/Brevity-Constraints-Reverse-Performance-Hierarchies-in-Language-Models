@@ -1,0 +1,6 @@
+setup.py
+src/Brevity_Constraints_Reverse.egg-info/PKG-INFO
+src/Brevity_Constraints_Reverse.egg-info/SOURCES.txt
+src/Brevity_Constraints_Reverse.egg-info/dependency_links.txt
+src/Brevity_Constraints_Reverse.egg-info/requires.txt
+src/Brevity_Constraints_Reverse.egg-info/top_level.txt
