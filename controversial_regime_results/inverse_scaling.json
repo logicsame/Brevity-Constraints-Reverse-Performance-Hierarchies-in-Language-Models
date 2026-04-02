@@ -1,0 +1,32 @@
+{
+  "gsm8k": {
+    "inverse_count": 13,
+    "inverse_pct": 4.333333333333334,
+    "total_problems": 300,
+    "avg_gap": 0.25591715976331364
+  },
+  "boolq": {
+    "inverse_count": 26,
+    "inverse_pct": 8.666666666666668,
+    "total_problems": 300,
+    "avg_gap": 0.3152736686390532
+  },
+  "arc-easy": {
+    "inverse_count": 30,
+    "inverse_pct": 10.0,
+    "total_problems": 300,
+    "avg_gap": 0.2980769230769231
+  },
+  "commonsenseqa": {
+    "inverse_count": 29,
+    "inverse_pct": 9.666666666666666,
+    "total_problems": 300,
+    "avg_gap": 0.2901967285587975
+  },
+  "mmlu-stem": {
+    "inverse_count": 12,
+    "inverse_pct": 4.2105263157894735,
+    "total_problems": 285,
+    "avg_gap": 0.3246527777777778
+  }
+}

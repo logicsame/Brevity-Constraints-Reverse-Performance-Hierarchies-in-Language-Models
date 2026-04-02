@@ -1,0 +1,342 @@
+{
+  "gsm8k": {
+    "DeepSeek": {
+      "accuracy": 0.07692307692307693,
+      "n_models": 2,
+      "n_responses": 26,
+      "avg_size": 37.0
+    },
+    "Mistral": {
+      "accuracy": 0.7692307692307693,
+      "n_models": 2,
+      "n_responses": 26,
+      "avg_size": 15.5
+    },
+    "GPT": {
+      "accuracy": 0.38461538461538464,
+      "n_models": 1,
+      "n_responses": 13,
+      "avg_size": 20.0
+    },
+    "Phi": {
+      "accuracy": 0.7307692307692307,
+      "n_models": 2,
+      "n_responses": 26,
+      "avg_size": 3.8
+    },
+    "Gemma": {
+      "accuracy": 0.8461538461538461,
+      "n_models": 3,
+      "n_responses": 39,
+      "avg_size": 4.0
+    },
+    "Yi": {
+      "accuracy": 0.6153846153846154,
+      "n_models": 1,
+      "n_responses": 13,
+      "avg_size": 6.0
+    },
+    "Kimi": {
+      "accuracy": 0.8461538461538461,
+      "n_models": 1,
+      "n_responses": 13,
+      "avg_size": 32.0
+    },
+    "Llama": {
+      "accuracy": 0.4827586206896552,
+      "n_models": 10,
+      "n_responses": 116,
+      "avg_size": 58.6
+    },
+    "Qwen": {
+      "accuracy": 0.8269230769230769,
+      "n_models": 4,
+      "n_responses": 52,
+      "avg_size": 6.125
+    },
+    "Gemini": {
+      "accuracy": 0.8333333333333334,
+      "n_models": 1,
+      "n_responses": 6,
+      "avg_size": 50.0
+    },
+    "StableLM": {
+      "accuracy": 0.5384615384615384,
+      "n_models": 2,
+      "n_responses": 26,
+      "avg_size": 2.3
+    }
+  },
+  "boolq": {
+    "DeepSeek": {
+      "accuracy": 0.3076923076923077,
+      "n_models": 2,
+      "n_responses": 52,
+      "avg_size": 37.0
+    },
+    "Mistral": {
+      "accuracy": 0.6538461538461539,
+      "n_models": 2,
+      "n_responses": 52,
+      "avg_size": 15.5
+    },
+    "GPT": {
+      "accuracy": 0.5,
+      "n_models": 1,
+      "n_responses": 26,
+      "avg_size": 20.0
+    },
+    "Phi": {
+      "accuracy": 0.6346153846153846,
+      "n_models": 2,
+      "n_responses": 52,
+      "avg_size": 3.8
+    },
+    "Gemma": {
+      "accuracy": 0.7692307692307693,
+      "n_models": 3,
+      "n_responses": 78,
+      "avg_size": 4.0
+    },
+    "Yi": {
+      "accuracy": 0.6923076923076923,
+      "n_models": 1,
+      "n_responses": 26,
+      "avg_size": 6.0
+    },
+    "Kimi": {
+      "accuracy": 0.5769230769230769,
+      "n_models": 1,
+      "n_responses": 26,
+      "avg_size": 32.0
+    },
+    "Llama": {
+      "accuracy": 0.542016806722689,
+      "n_models": 10,
+      "n_responses": 238,
+      "avg_size": 58.6
+    },
+    "Qwen": {
+      "accuracy": 0.6346153846153846,
+      "n_models": 4,
+      "n_responses": 104,
+      "avg_size": 6.125
+    },
+    "Gemini": {
+      "accuracy": 0.4666666666666667,
+      "n_models": 1,
+      "n_responses": 15,
+      "avg_size": 50.0
+    },
+    "StableLM": {
+      "accuracy": 0.8269230769230769,
+      "n_models": 2,
+      "n_responses": 52,
+      "avg_size": 2.3
+    }
+  },
+  "arc-easy": {
+    "DeepSeek": {
+      "accuracy": 0.18333333333333332,
+      "n_models": 2,
+      "n_responses": 60,
+      "avg_size": 37.0
+    },
+    "Mistral": {
+      "accuracy": 0.85,
+      "n_models": 2,
+      "n_responses": 60,
+      "avg_size": 15.5
+    },
+    "GPT": {
+      "accuracy": 0.4,
+      "n_models": 1,
+      "n_responses": 30,
+      "avg_size": 20.0
+    },
+    "Phi": {
+      "accuracy": 0.7666666666666667,
+      "n_models": 2,
+      "n_responses": 60,
+      "avg_size": 3.8
+    },
+    "Gemma": {
+      "accuracy": 0.9222222222222223,
+      "n_models": 3,
+      "n_responses": 90,
+      "avg_size": 4.0
+    },
+    "Yi": {
+      "accuracy": 0.9,
+      "n_models": 1,
+      "n_responses": 30,
+      "avg_size": 6.0
+    },
+    "Kimi": {
+      "accuracy": 0.5333333333333333,
+      "n_models": 1,
+      "n_responses": 30,
+      "avg_size": 32.0
+    },
+    "Llama": {
+      "accuracy": 0.6277372262773723,
+      "n_models": 10,
+      "n_responses": 274,
+      "avg_size": 58.6
+    },
+    "Qwen": {
+      "accuracy": 0.775,
+      "n_models": 4,
+      "n_responses": 120,
+      "avg_size": 6.125
+    },
+    "Gemini": {
+      "accuracy": 0.4117647058823529,
+      "n_models": 1,
+      "n_responses": 17,
+      "avg_size": 50.0
+    },
+    "StableLM": {
+      "accuracy": 0.7333333333333333,
+      "n_models": 2,
+      "n_responses": 60,
+      "avg_size": 2.3
+    }
+  },
+  "commonsenseqa": {
+    "DeepSeek": {
+      "accuracy": 0.20689655172413793,
+      "n_models": 2,
+      "n_responses": 58,
+      "avg_size": 37.0
+    },
+    "Mistral": {
+      "accuracy": 0.603448275862069,
+      "n_models": 2,
+      "n_responses": 58,
+      "avg_size": 15.5
+    },
+    "GPT": {
+      "accuracy": 0.10344827586206896,
+      "n_models": 1,
+      "n_responses": 29,
+      "avg_size": 20.0
+    },
+    "Phi": {
+      "accuracy": 0.5517241379310345,
+      "n_models": 2,
+      "n_responses": 58,
+      "avg_size": 3.8
+    },
+    "Gemma": {
+      "accuracy": 0.6666666666666666,
+      "n_models": 3,
+      "n_responses": 87,
+      "avg_size": 4.0
+    },
+    "Yi": {
+      "accuracy": 0.5862068965517241,
+      "n_models": 1,
+      "n_responses": 29,
+      "avg_size": 6.0
+    },
+    "Kimi": {
+      "accuracy": 0.5172413793103449,
+      "n_models": 1,
+      "n_responses": 29,
+      "avg_size": 32.0
+    },
+    "Llama": {
+      "accuracy": 0.42857142857142855,
+      "n_models": 10,
+      "n_responses": 266,
+      "avg_size": 58.6
+    },
+    "Qwen": {
+      "accuracy": 0.646551724137931,
+      "n_models": 4,
+      "n_responses": 116,
+      "avg_size": 6.125
+    },
+    "Gemini": {
+      "accuracy": 0.4,
+      "n_models": 1,
+      "n_responses": 15,
+      "avg_size": 50.0
+    },
+    "StableLM": {
+      "accuracy": 0.5689655172413793,
+      "n_models": 2,
+      "n_responses": 58,
+      "avg_size": 2.3
+    }
+  },
+  "mmlu-stem": {
+    "DeepSeek": {
+      "accuracy": 0.3333333333333333,
+      "n_models": 2,
+      "n_responses": 18,
+      "avg_size": 37.0
+    },
+    "Mistral": {
+      "accuracy": 0.25,
+      "n_models": 2,
+      "n_responses": 24,
+      "avg_size": 15.5
+    },
+    "GPT": {
+      "accuracy": 0.08333333333333333,
+      "n_models": 1,
+      "n_responses": 12,
+      "avg_size": 20.0
+    },
+    "Phi": {
+      "accuracy": 0.4166666666666667,
+      "n_models": 2,
+      "n_responses": 24,
+      "avg_size": 3.8
+    },
+    "Gemma": {
+      "accuracy": 0.5555555555555556,
+      "n_models": 3,
+      "n_responses": 36,
+      "avg_size": 4.0
+    },
+    "Yi": {
+      "accuracy": 0.4166666666666667,
+      "n_models": 1,
+      "n_responses": 12,
+      "avg_size": 6.0
+    },
+    "Kimi": {
+      "accuracy": 0.25,
+      "n_models": 1,
+      "n_responses": 12,
+      "avg_size": 32.0
+    },
+    "Llama": {
+      "accuracy": 0.4166666666666667,
+      "n_models": 9,
+      "n_responses": 96,
+      "avg_size": 63.666666666666664
+    },
+    "Qwen": {
+      "accuracy": 0.4166666666666667,
+      "n_models": 4,
+      "n_responses": 60,
+      "avg_size": 6.125
+    },
+    "Gemini": {
+      "accuracy": 0.42857142857142855,
+      "n_models": 1,
+      "n_responses": 7,
+      "avg_size": 50.0
+    },
+    "StableLM": {
+      "accuracy": 0.5833333333333334,
+      "n_models": 2,
+      "n_responses": 24,
+      "avg_size": 2.3
+    }
+  }
+}

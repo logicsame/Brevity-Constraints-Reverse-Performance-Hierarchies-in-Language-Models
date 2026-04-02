@@ -1,0 +1,72 @@
+{
+  "gsm8k": {
+    "response_diversity": 1.0,
+    "diversity_risk": "LOW",
+    "length_cv": 0.5982895926299481,
+    "length_risk": "LOW",
+    "error_risk": "LOW",
+    "overall_risk": "LOW",
+    "error_breakdown": {
+      "over_reasoning": 55,
+      "format_mismatch": 27,
+      "simple_wrong": 1,
+      "hedging": 1
+    }
+  },
+  "boolq": {
+    "response_diversity": 0.2980769230769231,
+    "diversity_risk": "HIGH",
+    "length_cv": 1.8228164964576858,
+    "length_risk": "LOW",
+    "error_risk": "MODERATE",
+    "overall_risk": "MODERATE",
+    "error_breakdown": {
+      "over_reasoning": 57,
+      "format_mismatch": 24,
+      "simple_wrong": 72,
+      "hedging": 0
+    }
+  },
+  "arc-easy": {
+    "response_diversity": 1.0,
+    "diversity_risk": "LOW",
+    "length_cv": 0.471864792815214,
+    "length_risk": "LOW",
+    "error_risk": "LOW",
+    "overall_risk": "LOW",
+    "error_breakdown": {
+      "over_reasoning": 76,
+      "format_mismatch": 17,
+      "simple_wrong": 33,
+      "hedging": 3
+    }
+  },
+  "commonsenseqa": {
+    "response_diversity": 1.0,
+    "diversity_risk": "LOW",
+    "length_cv": 0.4677656526606214,
+    "length_risk": "LOW",
+    "error_risk": "LOW",
+    "overall_risk": "LOW",
+    "error_breakdown": {
+      "over_reasoning": 117,
+      "format_mismatch": 25,
+      "simple_wrong": 31,
+      "hedging": 8
+    }
+  },
+  "mmlu-stem": {
+    "response_diversity": 1.0,
+    "diversity_risk": "LOW",
+    "length_cv": 0.31404363918206957,
+    "length_risk": "LOW",
+    "error_risk": "LOW",
+    "overall_risk": "LOW",
+    "error_breakdown": {
+      "over_reasoning": 100,
+      "format_mismatch": 3,
+      "simple_wrong": 14,
+      "hedging": 2
+    }
+  }
+}

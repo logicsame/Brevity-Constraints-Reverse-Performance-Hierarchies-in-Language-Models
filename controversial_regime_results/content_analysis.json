@@ -1,0 +1,37 @@
+{
+  "gsm8k": {
+    "inverse_length": 37.0,
+    "normal_length": 46.21951219512195,
+    "inverse_has_numbers": 1.0,
+    "normal_has_numbers": 0.9825783972125436,
+    "length_pval": 0.07582136845897441
+  },
+  "boolq": {
+    "inverse_length": 119.46153846153847,
+    "normal_length": 104.58394160583941,
+    "inverse_has_numbers": 0.7692307692307693,
+    "normal_has_numbers": 0.6934306569343066,
+    "length_pval": 0.06868995184515561
+  },
+  "arc-easy": {
+    "inverse_length": 39.86666666666667,
+    "normal_length": 39.092592592592595,
+    "inverse_has_numbers": 0.13333333333333333,
+    "normal_has_numbers": 0.1,
+    "length_pval": 0.8080086001624671
+  },
+  "commonsenseqa": {
+    "inverse_length": 25.17241379310345,
+    "normal_length": 25.531365313653136,
+    "inverse_has_numbers": 0.034482758620689655,
+    "normal_has_numbers": 0.014760147601476014,
+    "length_pval": 0.968488428189497
+  },
+  "mmlu-stem": {
+    "inverse_length": 75.66666666666667,
+    "normal_length": 52.227106227106226,
+    "inverse_has_numbers": 0.5833333333333334,
+    "normal_has_numbers": 0.5347985347985348,
+    "length_pval": 0.17492387566629297
+  }
+}

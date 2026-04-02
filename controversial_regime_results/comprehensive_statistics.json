@@ -1,0 +1,23 @@
+{
+  "discriminative_efficiency": {
+    "controversial_mean": 24.796491228070174,
+    "controversial_std": 8.348942721540212,
+    "useless_mean": 27.10175438596491,
+    "useless_std": 15.35092090219341,
+    "correlation_size": 0.0,
+    "correlation_pval": 1.0
+  },
+  "inverse_scaling": {
+    "inverse_mean": 7.375438596491227,
+    "inverse_std": 2.5720183800364462,
+    "avg_gap_mean": 0.296823451563173,
+    "effect_size": 1.3413377121246293,
+    "correlation_controversial": -0.3,
+    "correlation_pval": 0.6238376647810728
+  },
+  "consistency": {
+    "all_have_controversial": false,
+    "all_have_inverse": true,
+    "cv_controversial": 0.33669855322470077
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "gsm8k": {
+    "category_counts": {
+      "moderate": 167,
+      "controversial": 106,
+      "universally_hard": 23,
+      "universally_easy": 4
+    },
+    "controversial_pct": 35.333333333333336,
+    "useless_pct": 9.0,
+    "total_problems": 300
+  },
+  "boolq": {
+    "category_counts": {
+      "universally_easy": 155,
+      "moderate": 106,
+      "controversial": 30,
+      "universally_hard": 9
+    },
+    "controversial_pct": 10.0,
+    "useless_pct": 54.666666666666664,
+    "total_problems": 300
+  },
+  "arc-easy": {
+    "category_counts": {
+      "moderate": 163,
+      "controversial": 71,
+      "universally_easy": 65,
+      "universally_hard": 1
+    },
+    "controversial_pct": 23.666666666666668,
+    "useless_pct": 22.0,
+    "total_problems": 300
+  },
+  "commonsenseqa": {
+    "category_counts": {
+      "moderate": 155,
+      "controversial": 86,
+      "universally_hard": 31,
+      "universally_easy": 28
+    },
+    "controversial_pct": 28.666666666666668,
+    "useless_pct": 19.666666666666664,
+    "total_problems": 300
+  },
+  "mmlu-stem": {
+    "category_counts": {
+      "moderate": 124,
+      "universally_hard": 81,
+      "controversial": 75,
+      "universally_easy": 5
+    },
+    "controversial_pct": 26.31578947368421,
+    "useless_pct": 30.175438596491226,
+    "total_problems": 285
+  }
+}

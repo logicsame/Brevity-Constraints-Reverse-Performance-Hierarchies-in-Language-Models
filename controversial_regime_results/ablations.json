@@ -1,0 +1,53 @@
+{
+  "generalizability": {
+    "mathematical": {
+      "controversial": 35.333333333333336,
+      "inverse": 4.333333333333334
+    },
+    "factual": {
+      "controversial": 19.994152046783626,
+      "inverse": 7.625730994152047
+    },
+    "commonsense": {
+      "controversial": 28.666666666666668,
+      "inverse": 9.666666666666666
+    }
+  },
+  "threshold_sensitivity": {
+    "gsm8k": {
+      "strict": 20.666666666666668,
+      "standard": 35.333333333333336,
+      "loose": 57.99999999999999
+    },
+    "boolq": {
+      "strict": 6.333333333333334,
+      "standard": 10.0,
+      "loose": 14.333333333333334
+    },
+    "arc-easy": {
+      "strict": 14.666666666666666,
+      "standard": 23.666666666666668,
+      "loose": 41.0
+    },
+    "commonsenseqa": {
+      "strict": 18.333333333333332,
+      "standard": 28.666666666666668,
+      "loose": 49.0
+    },
+    "mmlu-stem": {
+      "strict": 16.49122807017544,
+      "standard": 26.31578947368421,
+      "loose": 43.859649122807014
+    }
+  },
+  "bootstrap": {
+    "controversial_ci": [
+      16.996491228070177,
+      31.666666666666664
+    ],
+    "inverse_ci": [
+      5.1748245614035095,
+      9.6
+    ]
+  }
+}

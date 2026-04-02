@@ -1,0 +1,47 @@
+{
+  "gsm8k": {
+    "variance_by_category": {
+      "controversial": 0.25541969641598156,
+      "universally_easy": 0.15000000000000002,
+      "moderate": 0.22276190419803082,
+      "universally_hard": 0.11792110857013886
+    },
+    "inverse_controversial_overlap": 23.076923076923077
+  },
+  "boolq": {
+    "variance_by_category": {
+      "controversial": 0.25557688044525273,
+      "universally_easy": 0.11125979995978917,
+      "moderate": 0.20444910504200697,
+      "universally_hard": 0.11208586979196299
+    },
+    "inverse_controversial_overlap": 11.538461538461538
+  },
+  "arc-easy": {
+    "variance_by_category": {
+      "controversial": 0.2554190801171014,
+      "universally_easy": 0.13153083972712618,
+      "moderate": 0.2177857379454928,
+      "universally_hard": 0.13978494623655913
+    },
+    "inverse_controversial_overlap": 13.333333333333334
+  },
+  "commonsenseqa": {
+    "variance_by_category": {
+      "controversial": 0.2556294211757646,
+      "universally_easy": 0.12503572248328326,
+      "moderate": 0.2210047670117999,
+      "universally_hard": 0.10324139335944568
+    },
+    "inverse_controversial_overlap": 27.586206896551722
+  },
+  "mmlu-stem": {
+    "variance_by_category": {
+      "controversial": 0.2558901028879524,
+      "universally_easy": 0.13173158979610594,
+      "moderate": 0.22100546464750417,
+      "universally_hard": 0.10559864800008169
+    },
+    "inverse_controversial_overlap": 33.33333333333333
+  }
+}
