@@ -1,0 +1,21 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch==2.5.0+cu121
+torchvision
+torchaudio
+transformers==4.52.3
+accelerate
+bitsandbytes
+datasets
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+safetensors
+einops
+hf_transfer
+protobuf
+sentencepiece
+-e .
+requirements.txt
