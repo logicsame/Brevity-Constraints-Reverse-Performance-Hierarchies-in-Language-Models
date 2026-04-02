@@ -1,6 +1,6 @@
 # Brevity Constraints Reverse Performance Hierarchies in Language Models
 
-**ICML 2026 Submission - Code Repository**
+**Code Repository**
 
 This repository contains the complete implementation for reproducing all experiments and analyses from our paper "Brevity Constraints Reverse Performance Hierarchies in Language Models."
 
@@ -62,13 +62,6 @@ huggingface-cli login
 
 
 ---
-
-##  Acknowledgments
-
-We thank:
-- Hugging Face for model hosting infrastructure
-- Authors of benchmark datasets (GSM8K, BoolQ, ARC, CommonsenseQA, MMLU)
-- ICML reviewers for constructive feedback
 
 ---
 
