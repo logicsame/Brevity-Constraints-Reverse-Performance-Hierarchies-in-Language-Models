@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "1.0.0"
 
 REPO_NAME = "Brevity Constraints Reverse Performance Hierarchies in Language Models"
-AUTHOR_USER_NAME = "Anonymous"
+AUTHOR_USER_NAME = "MD Azizul Hakim"
 SRC_REPO = "Brevity_Constraints_Reverse"
-AUTHOR_EMAIL = "Anonymous@gmail.com"
+AUTHOR_EMAIL = "useforprofessional@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
