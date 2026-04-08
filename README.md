@@ -1,9 +1,12 @@
 # Brevity Constraints Reverse Performance Hierarchies in Language Models
 
+📄 **Paper:** https://arxiv.org/abs/2604.00025
+
+---
+
 **Code Repository**
 
 This repository contains the complete implementation for reproducing all experiments and analyses from our paper "Brevity Constraints Reverse Performance Hierarchies in Language Models."
-
 ##  Overview
 
 Our code implements a comprehensive evaluation framework that:
